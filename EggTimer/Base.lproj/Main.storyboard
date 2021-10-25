@@ -315,7 +315,7 @@ Gw
                                             <font key="font" metaFont="system" size="24"/>
                                         </buttonCell>
                                         <connections>
-                                            <action selector="startButton:" target="XfG-lQ-9wD" id="BuI-4d-jdu"/>
+                                            <action selector="startButtonClicked:" target="XfG-lQ-9wD" id="Syb-bR-2hD"/>
                                         </connections>
                                     </button>
                                     <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="XdL-m3-hC8">
@@ -328,7 +328,7 @@ Gw
                                             <font key="font" metaFont="system" size="24"/>
                                         </buttonCell>
                                         <connections>
-                                            <action selector="stopButton:" target="XfG-lQ-9wD" id="k0z-N9-KY9"/>
+                                            <action selector="stopButtonClicked:" target="XfG-lQ-9wD" id="zOI-ss-J0K"/>
                                         </connections>
                                     </button>
                                     <button verticalHuggingPriority="750" translatesAutoresizingMaskIntoConstraints="NO" id="IUy-MB-mPe">
@@ -341,7 +341,7 @@ Gw
                                             <font key="font" metaFont="system" size="24"/>
                                         </buttonCell>
                                         <connections>
-                                            <action selector="resetButton:" target="XfG-lQ-9wD" id="E04-ri-qfn"/>
+                                            <action selector="stopButtonClicked:" target="XfG-lQ-9wD" id="wN6-an-w0l"/>
                                         </connections>
                                     </button>
                                 </subviews>
