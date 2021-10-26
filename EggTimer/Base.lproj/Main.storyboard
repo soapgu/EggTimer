@@ -341,7 +341,7 @@ Gw
                                             <font key="font" metaFont="system" size="24"/>
                                         </buttonCell>
                                         <connections>
-                                            <action selector="stopButtonClicked:" target="XfG-lQ-9wD" id="wN6-an-w0l"/>
+                                            <action selector="resetButtonClicked:" target="XfG-lQ-9wD" id="pLH-eD-cYJ"/>
                                         </connections>
                                     </button>
                                 </subviews>
